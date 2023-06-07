@@ -11,7 +11,7 @@ import SwiftUI
 struct NanoVocaApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CarouselView()
         }
     }
 }
